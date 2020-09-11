@@ -612,6 +612,7 @@ li.sub-menu-list-item {
 li.sub-menu-list-item p a {
   color: white;
 }
+
 li.sub-menu-list-item p a:hover {
   background-color: white;
   padding: 14px 16px;
