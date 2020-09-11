@@ -134,18 +134,18 @@ body {
   -webkit-font-feature-settings: "liga";
   font-feature-settings: "liga";
 }
-a:link {
-  color: #0000ff;
-  text-decoration: underline;
+a {
+  color: black;
+  text-decoration: none;
 }
-a:visited {
+/* a:visited {
   color: #800080;
   text-decoration: underline;
-}
-a:hover {
+} */
+/* a:hover {
   color: #0000ff;
   text-decoration: underline;
-}
+} */
 a:active {
   color: #ee0000;
   text-decoration: underline;
