@@ -596,7 +596,7 @@ ul.sub-menu-list {
   flex-direction: column;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  color: whitesmoke;
+  color: white;
 }
 li.sub-menu-list-item {
   font-size: 15px;
@@ -607,7 +607,15 @@ li.sub-menu-list-item {
   width: 669px !important;
   top: 66px !important;
   height: 240px !important;
-  background: #313132 !important;
+  background: #000000 !important;
+}
+li.sub-menu-list-item p a {
+  color: white;
+}
+li.sub-menu-list-item p a:hover {
+  background-color: white;
+  padding: 20px;
+  color: black;
 }
 #u10700 {
   z-index: 90;
