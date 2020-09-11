@@ -604,7 +604,7 @@ li.sub-menu-list-item {
   margin: 25px 25px;
 }
 .sub-menu-list-div {
-  width: 669px !important;
+  width: 671px !important;
   top: 66px !important;
   height: 240px !important;
   background: #000000 !important;
@@ -614,7 +614,7 @@ li.sub-menu-list-item p a {
 }
 li.sub-menu-list-item p a:hover {
   background-color: white;
-  padding: 20px;
+  padding: 14px 16px;
   color: black;
 }
 #u10700 {
